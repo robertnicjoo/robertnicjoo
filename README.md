@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertnicjoo
-- 👀 I’m interested in `Laravel`, `PHP`, `VueJs`, `Angular`, `Flutter` and some more...
+- 👀 I’m interested in `Laravel`, `PHP`, `VueJs`, `Angular`, `Flutter`, `Python` and some more...
 - 💞️ I’m looking to work with new people and develop some nice new apps.
 - 📫 How to reach me? [Website](https://irando.co.id/contact-us) | [Telegram](https://t.me/nicxonsolutions_com)
 - 🙋🏻 Would you like to know more about me? [visit here](https://robertnicjoo.vercel.app)
